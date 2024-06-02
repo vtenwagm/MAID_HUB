@@ -13,7 +13,7 @@ local L_4_ = L_1_:CreateWindow({
 	TabWidth = 160,
 	Size = UDim2.fromOffset(530, 350),
 	Acrylic = false,
-	Theme = "Aqua",
+	Theme = "Black",
 	MinimizeKey = Enum.KeyCode.End
 })
 local L_5_ = {
